@@ -1,7 +1,7 @@
 
 # Bin It To Win It
 
-### A smart waste reduction management system where every recyclable counts.  
+## A smart waste reduction management system where every recyclable counts.  
 Recycle ♻️, Redeem 💰, Repeat ✨
 
 [Aldriena Faye A. Manalo](https://github.com/yenamnl)  <br>
@@ -9,21 +9,18 @@ IT-2104
 
 <hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
 
-<div style="border: 1px solid #4CAF50; border-radius: 8px; padding: 10px; background-color: #E8F5E9; margin: 20px 0;">
-<details>
-<summary><strong> Table of Contents </strong></summary>
-
+### Table of Contents 
 I. Project Overview  
 II. Application of Python Concepts and Libraries  
 III. Integration of Sustainable Development Goals (SDGs)  
 IV. Instructions in Running the Program
 
-</details>
-</div>
+<hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
+
 
 ### I.  Project Overview 🔍  
 >***Bin It To Win It*** is a waste management system that encourages proper waste disposal and recycling. The project focuses on providing residents with a simple and efficient way to manage their waste, track their recycling efforts, and earn discounts for their environmentally conscious actions. The application allows residents to register, log in, add recyclable waste, calculate discounts based on the amount and type of waste added, and display a summary of their efforts. The system also provides helpful tips on waste sorting and reduction, contributing to environmental sustainability.
-
+<hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
 
 ### II. Application of Python Concepts and Libraries 🐍
 In this section, Python concepts and libraries were used to structure and process data to achieve desired outcomes including:
@@ -65,10 +62,11 @@ The main_menu() and resident_menu() functions employ `while True` loops to repea
 
 >When presenting lists or multiple items, `", ".join()` is used to join values with commas (e.g., `print(f"Collection Days: {', '.join(self.zones[resident.zone])}"`)), making the list easy to read. Throughout the code, the` print(`) function is employed to guide users through the system, 
 
+<hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
 
 ### III. Integration of Sustainable Development Goals (SDGs) 🌱
 >**Sustainable Development Goal (SDG) 12: Responsible Consumption and Production** emphasizes the importance of reducing waste generation, managing waste effectively, and promoting sustainable practices. The ***BinItToWinIt*** system encourages residents to recycle by offering incentives through recycling discounts, motivating them to reduce their waste footprint. Additionally, it provides educational resources on waste sorting, including how to properly separate recyclables and non-recyclables, which helps foster environmentally responsible behavior among the community.
-
+<hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
 ### IV. Instructions in Running the Program ▶️
 >To run the Bin It To Win It program, follow the steps:
 
@@ -138,7 +136,7 @@ The main_menu() and resident_menu() functions employ `while True` loops to repea
 
 >After Logging Out, the **`main menu`** will be displayed again. <br>
 >The user can either Register and Login again and when the user wants to exit the program choose option **`3`** and the data will be saved automatically.
-
+<hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
     
 
 
