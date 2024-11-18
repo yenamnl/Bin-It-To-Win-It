@@ -69,7 +69,8 @@ The main_menu() and resident_menu() functions employ `while True` loops to repea
 ### III. Integration of Sustainable Development Goals (SDGs) 🌱
 >**Sustainable Development Goal (SDG) 12: Responsible Consumption and Production** emphasizes the importance of reducing waste generation, managing waste effectively, and promoting sustainable practices. The ***BinItToWinIt*** system encourages residents to recycle by offering incentives through recycling discounts, motivating them to reduce their waste footprint. Additionally, it provides educational resources on waste sorting, including how to properly separate recyclables and non-recyclables, which helps foster environmentally responsible behavior among the community.
 <hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
-### IV. Instructions in Running the Program ▶️
+
+### IV. Instructions in Running the Program ▶️  
 >To run the Bin It To Win It program, follow the steps:
 
 >***1. Interacting with the Program***  
