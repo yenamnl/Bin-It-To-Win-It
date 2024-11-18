@@ -2,9 +2,7 @@
   <img src="images/logo.png" alt="Logo" width="500">
 </div>
 
-# Bin It To Win It
-
-## A smart waste reduction management system where every recyclable counts.  
+# Bin It To Win It: A Smart Waste Reduction Management System
 
 [Aldriena Faye A. Manalo](https://github.com/yenamnl)  <br>
 IT-2104
