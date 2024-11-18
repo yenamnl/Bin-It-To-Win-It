@@ -71,11 +71,11 @@ The main_menu() and resident_menu() functions employ `while True` loops to repea
 ### IV. Instructions in Running the Program ▶️  
 >To run the Bin It To Win It program, follow the steps:
 
->***1. Interacting with the Program***  
- > - Upon starting, you will see a **main menu** with options to:
- >**1. Register**
- >**2. Login**
- >**3. Exit**
+>***1. Starting the Program***  
+ > - Upon starting, you will see a **main menu** with options to: <br>
+ >**1. Register** <br>
+ >**2. Login** <br>
+ >**3. Exit** <br>
  >Choose the desired option and follow the prompts.
 
 >***JSON-based Persistence:***
