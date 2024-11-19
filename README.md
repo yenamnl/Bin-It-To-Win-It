@@ -19,7 +19,7 @@ IV. Instructions in Running the Program
 
 
 ### I.  Project Overview 🔍  
->***Bin It To Win It*** is a waste management system that encourages proper waste disposal and recycling. The project focuses on providing residents with a simple and efficient way to manage their waste, track their recycling efforts, and earn discounts for their environmentally conscious actions. The application allows residents to register, log in, add recyclable waste, calculate discounts based on the amount and type of waste added, and display a summary of their efforts. The system also provides helpful tips on waste sorting and reduction, contributing to environmental sustainability.
+>***Bin It To Win It*** is a waste management system that encourages proper waste disposal and recycling. The project focuses on providing residents with a simple and efficient way to manage their waste, track their recycling efforts, and earn discounts for their environmentally conscious actions. The system allows residents to register, log in, add recyclable waste, calculate discounts based on the amount and type of waste added, and display a summary of their efforts. The system also provides helpful tips on waste sorting and reduction, contributing to environmental sustainability.
 <hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
 
 ### II. Application of Python Concepts and Libraries 🐍
@@ -78,16 +78,15 @@ The main_menu() and resident_menu() functions employ `while True` loops to repea
  >**3. Exit** <br>
  >Choose the desired option and follow the prompts.
 
->***JSON-based Persistence:***
->- The syetem stores resident data in a `residents.json` file.
->- If files exists, resident data will be loaded automatically.
-
 >***2. Registering a Resident***  
  >**Choose an option: `1`** (Register Resident)  
  >**Enter name:**  
  >**Enter house number:**  
  >**Enter zone (1-6):**  
- >"Resident's name" **registered successfully!**  
+ >"Resident's name" **registered successfully!**
+
+>After Registering, the system stores resident data in a `residents.json` file.
+>If files exists, resident data will be loaded automatically. 
 
 >***3. Logging in***  
 >**Choose an option: `2`**(Login)  
@@ -101,7 +100,7 @@ The main_menu() and resident_menu() functions employ `while True` loops to repea
 >**4. Calculate Recycling Discount**  
 >**5. Display Summary**  
 >**6. Logout** <br>
->Choose the desired option and follow the prompts.
+>Choose the desired option (use the number equivalent with each option).
 
 >***4. Viewing Collection Days*** <br>
 >**Choose an option: `1`** (Show Collection Days)<br>
@@ -136,8 +135,9 @@ The main_menu() and resident_menu() functions employ `while True` loops to repea
 >Logging out.
 
 >After Logging Out, the **`main menu`** will be displayed again. <br>
->The user can either Register and Login again and when the user wants to exit the program choose option **`3`** and the data will be saved automatically.
+>The user can either Register and Login again and when the user wants to Exit the program choose option **`3`** and the data will be saved automatically.
 <hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
+
     
 
 
