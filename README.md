@@ -19,7 +19,7 @@ IV. Instructions in Running the Program
 
 
 ### I.  Project Overview 🔍  
->***Bin It To Win It*** is a waste management system that encourages proper waste disposal and recycling. The project focuses on providing residents with a simple and efficient way to manage their waste, track their recycling efforts, and earn discounts for their environmentally conscious actions. The system allows residents to register, log in, add recyclable waste, calculate discounts based on the amount and type of waste added, and display a summary of their efforts. The system also provides helpful tips on waste sorting and reduction, contributing to environmental sustainability.
+>***Bin It To Win It*** encourages proper waste disposal and recycling. The project focuses on providing residents with a simple and efficient way to manage their waste, track their recycling efforts, and earn discounts for their environmentally conscious actions. The program allows residents to register, log in, add recyclable waste, calculate discounts based on the amount and type of waste added, and display a summary of their efforts. The program also provides helpful tips on waste sorting and reduction, contributing to environmental sustainability.
 <hr style="width: 50%; height: 1px; background-color: #4CAF50; border: none; margin: 20px auto;">
 
 ### II. Application of Python Concepts and Libraries 🐍
