@@ -26,10 +26,10 @@ IV. Instructions in Running the Program
 In this section, Python concepts and libraries were used to structure and process data to achieve desired outcomes including:
 
 **Libraries**
->I used `json` library to enable writing and reading  to JSON files, which helps in storing resident data persistently between program sessions. `sys` to exit the program when the user wants to “Exit”.  And ‘datetime’ to record the current date and time in the waste management summary
+>The `json` library is used to enable writing and reading  to JSON files, which helps in storing resident data persistently between program sessions. `sys` to exit the program when the user wants to “Exit”.  And ‘datetime’ to record the current date and time in the waste management summary
 
 **Classes** 
->I created **`Resident Class`** to  represent an individual resident in the system. It has attributes such as `name` , `house_number `, `zone` , `waste_added`, `recycling_discount`, `total_payment`, and `waste_log`. The `__init__` method initializes these attributes, setting default values for `waste_added`, `recycling_discount`, `total_payment`, and an empty list for `waste_log` and **`BinItToWinIt Class`** the  main class which organizes the application's functionalities and methods. It holds a list of registered residents `self.residents` and a dictionary `self.zones` that maps zones to their corresponding collection days.
+>The **`Resident Class`** represents an individual resident in the system. It has attributes such as `name` , `house_number `, `zone` , `waste_added`, `recycling_discount`, `total_payment`, and `waste_log`. The `__init__` method initializes these attributes, setting default values for `waste_added`, `recycling_discount`, `total_payment`, and an empty list for `waste_log` and **`BinItToWinIt Class`** the  main class which organizes the application's functionalities and methods. It holds a list of registered residents `self.residents` and a dictionary `self.zones` that maps zones to their corresponding collection days.
 
 **Data Handling**
 >*Loading Data*: When the program starts, it attempts to load resident data from a `residents.json` file, creating a fresh start if no file exists. Each resident's information (like name, house number, and zone) is read from the `JSON` file and used to create Resident objects, which are added to a list.
