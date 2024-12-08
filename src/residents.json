@@ -1,0 +1,249 @@
+[
+    {
+        "name": "Gregorio Atienza",
+        "house_number": "4",
+        "zone": 1,
+        "waste_added": 5.4,
+        "recycling_discount": 17.3,
+        "final_payment": 82.7,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Plastic",
+                "amount": 5.4
+            }
+        ]
+    },
+    {
+        "name": "Faith Manalo",
+        "house_number": "247",
+        "zone": 6,
+        "waste_added": 32.9,
+        "recycling_discount": 10,
+        "final_payment": 90.0,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 3.9
+            },
+            {
+                "type": "Recyclable",
+                "item": "Plastic",
+                "amount": 7.0
+            },
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 6.0
+            },
+            {
+                "type": "Recyclable",
+                "item": "Paper",
+                "amount": 8.0
+            },
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 4.0
+            },
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 4.0
+            }
+        ]
+    },
+    {
+        "name": "Arnel Atienza",
+        "house_number": "78",
+        "zone": 2,
+        "waste_added": 8.3,
+        "recycling_discount": 15.48,
+        "final_payment": 84.52,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Plastic",
+                "amount": 4.6
+            },
+            {
+                "type": "Recyclable",
+                "item": "Metal",
+                "amount": 3.7
+            }
+        ]
+    },
+    {
+        "name": "Estrella Valdez",
+        "house_number": "99",
+        "zone": 4,
+        "waste_added": 4.0,
+        "recycling_discount": 17.2,
+        "final_payment": 82.8,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Paper",
+                "amount": 4.0
+            }
+        ]
+    },
+    {
+        "name": "Danilo Andres",
+        "house_number": "152",
+        "zone": 5,
+        "waste_added": 8.3,
+        "recycling_discount": 17.509999999999998,
+        "final_payment": 82.49000000000001,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 8.3
+            }
+        ]
+    },
+    {
+        "name": "Heidie Garchitorena",
+        "house_number": "242",
+        "zone": 6,
+        "waste_added": 15.0,
+        "recycling_discount": 11.58,
+        "final_payment": 88.42,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Plastic",
+                "amount": 3.6
+            },
+            {
+                "type": "Recyclable",
+                "item": "Paper",
+                "amount": 8.0
+            },
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 3.4
+            }
+        ]
+    },
+    {
+        "name": "Edna Kennedy",
+        "house_number": "7",
+        "zone": 1,
+        "waste_added": 5.0,
+        "recycling_discount": 18.5,
+        "final_payment": 81.5,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 5.0
+            }
+        ]
+    },
+    {
+        "name": "Cynthia Abadines",
+        "house_number": "76",
+        "zone": 2,
+        "waste_added": 7.2,
+        "recycling_discount": 15.98,
+        "final_payment": 84.02,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Metal",
+                "amount": 4.2
+            },
+            {
+                "type": "Recyclable",
+                "item": "Plastic",
+                "amount": 3.0
+            }
+        ]
+    },
+    {
+        "name": "Angeline Reyes",
+        "house_number": "85",
+        "zone": 3,
+        "waste_added": 6.5,
+        "recycling_discount": 18.05,
+        "final_payment": 81.95,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 6.5
+            }
+        ]
+    },
+    {
+        "name": "Iceal Lim",
+        "house_number": "97",
+        "zone": 4,
+        "waste_added": 9.3,
+        "recycling_discount": 15.149999999999999,
+        "final_payment": 84.85,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Plastic",
+                "amount": 7.3
+            },
+            {
+                "type": "Recyclable",
+                "item": "Metal",
+                "amount": 2.0
+            }
+        ]
+    },
+    {
+        "name": "Faith Manalo",
+        "house_number": "247",
+        "zone": 6,
+        "waste_added": 0,
+        "recycling_discount": 0,
+        "final_payment": 0,
+        "waste_log": []
+    },
+    {
+        "name": "Aldriena Manalo",
+        "house_number": "247",
+        "zone": 6,
+        "waste_added": 0,
+        "recycling_discount": 0,
+        "final_payment": 0,
+        "waste_log": []
+    },
+    {
+        "name": "Faith Manalo",
+        "house_number": "247",
+        "zone": 6,
+        "waste_added": 0,
+        "recycling_discount": 0,
+        "final_payment": 0,
+        "waste_log": []
+    },
+    {
+        "name": "Aldriena Manalo",
+        "house_number": "20",
+        "zone": 2,
+        "waste_added": 10.5,
+        "recycling_discount": 15.5,
+        "final_payment": 84.5,
+        "waste_log": [
+            {
+                "type": "Recyclable",
+                "item": "Metal",
+                "amount": 4.5
+            },
+            {
+                "type": "Recyclable",
+                "item": "Glass",
+                "amount": 6.0
+            }
+        ]
+    }
+]
